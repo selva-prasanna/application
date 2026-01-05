@@ -1,0 +1,485 @@
+[
+    {
+      "id": "1",
+      "imgSrc": "./images/Rib-Shirt.jpg",
+      "brand": "Lymio",
+      "name": "Lymio Casual Shirt(Rib-Shirt)",
+      "price": "75",
+      "details": {
+        "materialComposition": "Polyester",
+        "fitType": "Regular Fit",
+        "sleeveType": "Long Sleeve",
+        "collarStyle": "Regular Collar",
+        "length": "Standard Length",
+        "neckStyle": "Dom",
+        "countryOfOrigin": "India"
+      },
+      "about": [
+        "Casual Shirt for Men | Shirt for Men | Men Stylish Shirt",
+        "Style: Casual",
+        "Neckline: Collar",
+        "Sleeve Length: Long Sleeve",
+        "Regular Fit"
+      ]
+    },
+    {
+      "id": "2",
+      "imgSrc": "./images/Samsung Galaxy Watch Ultra.jpg",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy Watch Ultra",
+      "price": "700",
+      "details": [
+        "Memory Storage Capacity: 32 GB",
+        "Special Feature: Blood Pressure Monitor, ECG, Activity Tracker, Always On Display, Contactless Payments",
+        "Connectivity Technology: Cellular, Wi-Fi, NFC",
+        "Battery Cell Composition: Lithium Ion",
+        "GPS: Built-in GPS"
+      ],
+      "about": [
+        "[ULTRA DURABLE] Cushion Design Dial with Aero-grade Titanium & Sapphire glass is built to survive in the most extreme conditions. With 10ATM & IP68 Rating, Watch ULTRA is ready even for the Oceans. MIL-STD-810H makes it even more reliable for tough outdoor environment. It has secured ability for operation at a wider range of environment like temperature or altitude.",
+        "[ULTRA CAPABLE] Galaxy Watch ULTRA has a 3nm Processor (3X faster) that supercharges your daily routine & optimizes battery life to give up to 100 hrs runtime. Double pinch comes in handy. A simple gesture can be used to take pictures, answer calls and / or turn off the alarm New hardware also includes Dual-Frequency GPS for improved & consistent location tracking.",
+        "[ULTRA INTELLIGENT] Galaxy AI Powered Health & Fitness monitoring: Energy Score, Booster Card & Personalized HR & FTP help elevate user's max capability based on daily condition. Paired with Galaxy AI Smartphone, it gives quick reply suggestions to match the context of last messages.",
+        "[ULTRA HEALTH] Powered by a new 2nd gen BioActive Sensor, Watch ULTRA improves the accuracy of various exercises and SpO2 by increasing the number of LEDs and changing the radial structure. With personalized HR algorithms, it can accurately measure ECG & monitor Blood Pressure.",
+        "[ULTRA CONVENIENCE] Introducing Quick Button that allows customizations to physical operations & integrates an EMERGENCY SIREN. Galaxy Watch ULTRA has two dedicated watch faces that automatically switch to NIGHT MODE according to illuminance. Other features include Tap & Pay, Gesture Controls & a seamless Galaxy Connected Experience with Samsung Smartphones.",
+        "[COMPATIBILITY] Galaxy Watch is compatible with Non Samsung Smartphone running on Android Version 11 or higher. Some features from the Watch may work differently depending on the device compatibility. BP & ECG monitoring features available only on Samsung Smartphones."
+      ]
+    },
+    {
+      "id": "3",
+      "imgSrc": "./images/Allen Solly Men's Regular Fit Polo.jpg",
+      "brand": "Allen Solly",
+      "name": "Allen Solly Men's Regular Fit Polo",
+      "price": "80",
+      "details": {
+        "MaterialComposition": "60% Cotton, 40% Polyester",
+        "Pattern": "Solid",
+        "FitType": "Regular Fit",
+        "SleeveType": "Half Sleeve",
+        "CollarStyle": "Band Collar",
+        "Length": "Standard Length",
+        "CountryofOrigin": "India"
+      },
+      "about": [
+        "Occasion: Casual",
+        "Fit: Regular Fit",
+        "Material: 60% Cotton and 40% Polyester",
+        "Neck: Polo Neck",
+        "Pattern: Solid",
+        "Closure Type: Button",
+        "Collar Style: Band Collar",
+        "Sleeve Type: Half Sleeve",
+        "Material Composition: 60% Cotton, 40% Polyester",
+        "Brand: Allen Solly"
+      ]
+    },
+    {
+      "id": "4",
+      "imgSrc": "./images/U.S. POLO ASSN. mens Panal Sneaker.jpg",
+      "brand": "U.S. POLO ASSN",
+      "name": "U.S. POLO ASSN. mens Panal Sneaker",
+      "price": "88",
+      "details": {
+        "materialType": "Faux Leather",
+        "closureType": "Lace-Up",
+        "heelType": "Flat",
+        "waterResistanceLevel": "Not Water Resistant",
+        "soleMaterial": "Rubber",
+        "style": "Sneakers",
+        "countryOfOrigin": "China"
+      },
+      "about": [
+        "Outer Material: Synthetic Leather",
+        "Closure Type: Lace-Up",
+        "Occasion: Casual",
+        "Toe Style: Round Toe",
+        "Warranty Type: Manufacturer",
+        "Warranty Description: 90 days"
+      ]
+    },
+    {
+      "id": "5",
+      "imgSrc": "./images/GoSriKi Kurta with Pant & Dupatta.jpg",
+      "brand": "GoSriKi",
+      "name": "GoSriKi Women's Cotton Blend Solid Regular Kurta with Pant & Dupatta",
+      "price": "80",
+      "details": {
+        "MaterialComposition": "Cotton Blend",
+        "Length": "Calf Length",
+        "SleeveType": "3/4 Sleeve",
+        "NeckStyle": "Round Neck",
+        "Style": "Anarkali",
+        "MaterialType": "Cotton Blend",
+        "CountryofOrigin": "India"
+      },
+      "about": [
+        "Kurta Set Fabric: Cotton Blend",
+        "Kurta Set Color: Red",
+        "Style: Anarkali",
+        "Length: Calf Length",
+        "Sleeves: 3/4 Sleeves",
+        "Size Chart- Kurta-S-36 in, M-38 in, L-40 in, XL-42 in, XXL-44 in, Pant: S-28 in, M-30 in, L-32 in, XL-34 in, XXL-36 in",
+        "This set includes: 1 Kurta and 1 Pant with Dupatta",
+        "Work: Solid and Dupatta Printed",
+        "Neck Style: Round Neck",
+        "Colour Declaration: There might be slight variation in the actual color of the product due to different screen resolutions.",
+        "Occasion: Traditional wear, Casual Wear, party wear, evening wear. Please Click On Brand Name (GoSriKi) For More Products."
+      ]
+    },
+    {
+      "id": "6",
+      "imgSrc": "./images/Hopscotch USB Rechargeable Sneakers.jpg",
+      "brand": "Hopscotch",
+      "name": "Hopscotch PU Wings High Top USB Rechargeable Sneakers in White Color",
+      "price": "85",
+      "details": {
+        "ClosureType": "Hook & Loop",
+        "HeelType": "Flat",
+        "SoleMaterial": "Thermoplastic Elastomers",
+        "Style": "Sneaker",
+        "OuterMaterial": "Microfiber"
+      },
+      "about": [
+        "Material: Microfiber Leather",
+        "Product Type: Sneakers & Slip Ons",
+        "UK Size: 8.5 / Insole Length: 15.7 CM",
+        "Styling Tip: Mix And Match These Cute footwear With Matching Casual Wear.",
+        "Note: Kindly Purchase Footwear Size 1/2 Cm More Than Your Kid's Foot Size."
+      ]
+    },
+    {
+      "id": "7",
+      "imgSrc": "./images/Drspinkkinnu_Baby Pink.jpg",
+      "brand": "Stylum",
+      "name": "Stylum Women's Floral Printed Cotton Flared Maxi Dress",
+      "price": "72",
+      "details": {
+        "MaterialType": "Cotton",
+        "Length": "Maxi",
+        "OccasionType": "Casual",
+        "SleeveType": "Short Sleeve",
+        "Pattern": "Floral",
+        "Style": "Fit And Flare"
+      },
+      "about": [
+        "Baby pink floral printed calf length dress in cotton fabric.",
+        "It has shirt collar, tie-up belt and half sleeves.",
+        "Dress length -47'' Inch.",
+        "Wear it with casual shoes for a cool and comfy look.",
+        "Material: Cotton",
+        "Length: Maxi Dress",
+        "Style & Pattern: Floral Printed",
+        "Neck: Shirt Collar",
+        "Sleeve: Short Sleeves",
+        "Sleeve Type: Regular Sleeves",
+        "Occasion: Casual",
+        "Style Type: Flared"
+      ]
+    },
+    {
+      "id": "8",
+      "imgSrc": "./images/Dervin UV Protected Square Rimless Sunglasses.jpg",
+      "brand": "Dervin",
+      "name": "Dervin UV Protected Square Rimless Sunglasses for Men and Women",
+      "price": "35",
+      "about": [
+        "UV protected lenses shield eyes from harmful sun rays.",
+        "Rimless square frame design for a modern and versatile look.",
+        "Lightweight and durable construction for comfortable all-day wear.",
+        "Reduces glare and improves visual clarity.",
+        "Suitable for both men and women."
+      ]
+    },  
+    
+    {
+      "id": "9",
+        "imgSrc": "./images/D-Crush-16-23.jpg",
+        "brand": "Lymio",
+        "name": "Lymio Casual Shirt | Shirt for Men | Men Stylish Shirt (D-Crush-16-23)",
+        "price": "78",
+        "details": {
+          "MaterialComposition": "Polyester",
+          "Pattern": "Solid",
+          "FitType": "Regular Fit",
+          "SleeveType": "Half Sleeve",
+          "CollarStyle": "Classic",
+          "Length": "Standard Length",
+          "CountryofOrigin": "India"
+        },
+        "about": [
+          "Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt",
+          "Style:Casual",
+          "Neckline:Collar",
+          "Sleeve Length:Short Sleeve",
+          "Reguler Fit"
+        ]
+      },
+      {
+        "id": "10",
+        "imgSrc": "./images/Casio Edifice Black Analog  Watch.jpg",
+        "brand": "Casio",
+        "name": "Casio Edifice Black Analog Dial Black Leather Band Men's Watch",
+        "price": "95",
+        "details": {
+          "CaseDiameter": "54.1 Millimetres",
+          "BandColour": "Black",
+          "BandMaterialType": "Leather",
+          "WarrantyType": "Limited",
+          "WatchMovementType": "Quartz",
+          "ItemWeight": "97 Grams",
+          "CountryofOrigin": "China"
+        },
+        "about": [
+          "Dial Color: Black.",
+          "Case Shape: Round.",
+          "Band Color: Black.",
+          "Band Material: Leather.",
+          "Watch Movement Type: Quartz.",
+          "Watch Display Type: Chronograph.",
+          "Case Material: Stainless Steel.",
+          "Case Diameter :54 Centimeters.",
+          "Case Thickness :11 Millimeters.",
+          "Band Width :25 Millimeters.",
+          "Water Resistance Depth: 100 meters."
+        ]
+      },
+    
+      {
+        "id": "11",
+        "imgSrc": "./images/MIA FASHION Men's Bomber Jacket.jpg",
+        "brand": "MIA FASHION",
+        "name": "MIA FASHION Men's Bomber Jacket, Autumn Blouson with Pockets",
+        "price": "88",
+        "details": {
+          "MaterialComposition": "Nylon",
+          "Style": "Blouson",
+          "Length": "Standard Length",
+          "Pattern": "Solid",
+          "CareInstructions": "Hand Wash Only",
+          "CountryofOrigin": "India"
+        },
+        "about": [
+          "Size: Please check the size data below in the product description before purchasing.",
+          "Material: Nylon; Lightweight, Windbreaker, Breathable",
+          "Breathable.::Full zipper stand collar bomber jacket, The zipper head is on the left.",
+          "FEATURE: Rib Knit Cuffs, Waistband, Collar for comfort, Dual pen pockets on sleeve.",
+          "Suitable for: Outdoor, Casual, Sportwear, Working, Daily life, Hiking, Clubwear, Sports, Spring, Fall or other outdoor activities."
+        ]
+      },
+      {
+        "id": "12",
+        "imgSrc": "./images/Puma Sky Running Shoe.jpg",
+        "brand": "Puma",
+        "name": "Puma Unisex-Adult Aviator Profoam Sky Running Shoe",
+        "price": "120",
+        "details": {
+          "MaterialType": "Synthetic",
+          "ClosureType": "Lace-Up",
+          "HeelType": "Flat",
+          "WaterResistanceLevel": "Not Water Resistant",
+          "SoleMaterial": "Rubber",
+          "Style": "Running",
+          "CountryofOrigin": "Vietnam"
+        },
+        "about": [
+          "Style Name:-Running Shoe",
+          "Model Name:-Aviator Profoam Sky",
+          "Brand Color:-Lime Squeeze-White-Black",
+          "Material:-Mesh",
+          "Care Instructions:-Wipe with a clean dry cloth"
+        ]
+      },
+
+      {
+        "id": "13",
+        "imgSrc": "./images/CBlue Men's Outdoor Sports Shorts.jpg",
+        "brand": "CBlue",
+        "name": "CBlue Men's Outdoor Quick Dry Lightweight Sports Shorts 2 Zipper Pockets",
+        "price": "45",
+        "details": {
+          "MaterialComposition": "Polyester",
+          "Style": "Outdoor Shorts",
+          "Length": "Above Knee",
+          "FitType": "Regular Fit",
+          "MaterialType": "Polyester Blend",
+          "CareInstructions": "Hand Wash Only",
+          "CountryofOrigin": "India"
+        },
+        "about": [
+          "Solid color : Fashion and Concise.",
+          "Great for Spring/Summer.",
+          "Front zipper pockets.",
+          "With reflector Logos & Strips",
+          "Lightweight quick dry shorts with internal drawstring and adjustable waist fit for any body form, Zip-closed security pockets ensure the safety of the stuff 92% polyester 8% Lycra ( Spandex)",
+          "Quick dry, breathable, lightweight material.",
+          "Keep you fresh and all-day comfort.",
+          "Allowing to take less clothes when in travel",
+          "Rise Style: Regular",
+          "Age Range Description: Adult",
+          "Closure Type: Pull On",
+          "Occasion Type: Casual",
+          "Item Length Description: Above Knee",
+          "Fit Type: Regular Fit"
+        ]
+      },
+      {
+        "id": "14",
+        "imgSrc": "./images/Lymio Men Cargo Pants.jpg",
+        "brand": "Lymio",
+        "name": "Lymio Men Cargo | Men Cargo Pants | Men Cargo Pants Cotton | Cargos for Men (Cargo-38-41)",
+        "price": "69",
+        "details": {
+          "MaterialType": "Cotton",
+          "Style": "Cargo For Men",
+          "ClosureType": "Drawstring",
+          "CareInstructions": "Machine Wash",
+          "RiseStyle": "High Rise",
+          "LegStyle": "Straight",
+          "CountryofOrigin": "India"
+        },
+        "about": [
+          "Men Cargo || Men Cargo Pants || Men Cargo Pants Cotton || Cargos for Men",
+          "Pattern Type: Plain",
+          "Type: Cargo Pants",
+          "Closure Type: Drawstring Waist",
+          "Length: Long"
+        ]
+      },
+      {
+        "id": "15",
+        "imgSrc": "./images/TIMEX Fria Women watch.jpg",
+        "brand": "TIMEX",
+        "name": "TIMEX Fria Women Round, Cushion, Rectangular and Rhombus Dial Case 2 Hands Function Rose Gold and Silver Watch",
+        "price": "82",
+        "details": {
+          "CaseDiameter": "27 Millimetres",
+          "BandColour": "Two Tone",
+          "BandMaterialType": "Brass",
+          "WatchMovementType": "Quartz",
+          "ItemWeight": "0.3 Kilograms",
+          "CaseThickness": "8.8 Millimetres"
+        },
+        "about": [
+          "PRODUCT SPECIFICATION : Dial Color Mother of Pearl",
+          "Warranty Specification: 1 Year Warranty against manufacturer defect",
+          "WATERPROOF FOR DAILY USE: Water Resistance Depth (30m, Rain Resistant), HANDWASH, SHOWER, NO PROBLEM",
+          "Perfect for all kind of business, casual, indoor activities or daily use, suitable for brief immersion, but not for swimming."
+        ]
+      },
+      {
+        "id": "16",
+        "imgSrc": "./images/Women's Crepe A-Line Maxi Dress.jpg",
+        "brand": "OOMPH",
+        "name": "OOMPH! Women's Crepe A-Line Maxi Dress (Smocked)",
+        "price": "85",
+        "details": {
+          "MaterialType": "Crepe",
+          "Length": "Maxi",
+          "OccasionType": "Casual",
+          "SleeveType": "Short Sleeve",
+          "Pattern": "Floral",
+          "Style": "A-Line",
+          "CountryofOrigin": "India"
+        },
+        "about": [
+          "Perfect for Casual wear, party wear, beach wear and summer wear",
+          "Suitable for summer dresses for women, beach dress for women, beach wear for women, pink dress for women, fit and flare dresses for women, off shoulder dress for women.",
+          "Suitable for dresses for women, dresses for women western wear, western dresses for women latest design, dress, dress for women, frock for women, one piece dress for women, women dresses, dresses, women dresses western wear, western dresses for women, frocks for women, birthday dress for women, women dress, dress for women western wear"
+        ]
+      },
+      {
+        "id": "17",
+        "imgSrc": "./images/C4D Keyhole Elegant Skater Dress.jpg",
+        "brand": "C4D",
+        "name": "C4D Women's Pluse Size Front Keyhole Elegant Skater Dress",
+        "price": "78",
+        "details": {
+          "MaterialType": "Valentino Lycra",
+          "Length": "Midi",
+          "OccasionType": "Casual",
+          "SleeveType": "Long Sleeve",
+          "Pattern": "Solid",
+          "Style": "Skater",
+          "CountryofOrigin": "India"
+        },
+        "about": [
+          "Material: Valentino Lycra",
+          "Style: Front Keyhole Flared Elegant Skater Dress",
+          "Pattern: Solid; Closure: Drawstring",
+          "Sleeve: Mesh Long Sleeve",
+          "NOTE : Please confirm your size before ordering the product using this Chest Size Inches:- (X-Large: 38; 2X-Large: 40; 3X-Large: 42; 4X-Large: 44; 5X-Large: 46)"
+        ]
+      },
+      {
+        "id": "18",
+        "imgSrc": "./images/Fostelo Women's bag.jpg",
+        "brand": "Fostelo",
+        "name": "Fostelo Women's Vegan Leather Style Diva Handbags",
+        "price": "70",
+        "details": {
+          "ClosureType": "Zipper",
+          "OuterMaterial": "Polyurethane",
+          "Style": "Dale",
+          "OccasionType": "Women's Day",
+          "NumberofPockets": "4",
+          "Lining": "Silk",
+          "CountryofOrigin": "India"
+        },
+        "about": [
+          "✅Great Gift:- These womens purses come with upgrade hardware and durable zipper, suitable for a long time. Moreover,the purse sets goes well with any clothes in any occasions such as dating, traveling, working, shopping. Also the purse can be an excellent gift for Mothers, Wife, Girlfriend, Daughters and Best friends on birthday, Valentine's Day, Anniversary, Mother's Day and every important or special day for her.",
+          "✅Material & Hardware:- Vegan leather, quality shoulder strap and color plated metal zipper, polyester lining , all faux leather hand bags have been done anti-shock & wear-resistant tests, good purses, totes, satchels and handbags for women.",
+          "✅Stylish Handbag for Women: - Colour :- Light Grey. Dimensions (In Inches) :- 11 Tall X 15 Wide X 5 Deep. Innovative design and elegant tassels decoration, fashionable and practical office bags for women, perfect for shopping, dating, travel and business."
+        ]
+      },
+      {
+        "id": "19",
+        "imgSrc": "./images/Yashika Women's saree.jpg",
+        "brand": "Yashika",
+        "name": "Yashika Women's Fancy Banarasi Kanjivaram Art Silk Saree",
+        "price": "88",
+        "details": {
+          "MaterialComposition": "Silk",
+          "WeaveType": "Jacquard",
+          "OccasionType": "Festival, Party, Wedding",
+          "Pattern": "Striped",
+          "IncludedComponents": "With blouse piece",
+          "CareInstructions": "Hand Wash Only",
+          "CountryofOrigin": "India"
+        },
+        "about": [
+          "Saree Details -- Saree Color: Red",
+          "Saree Material: Cotton Silk Blend",
+          "Saree Length: 5.25 meter",
+          "Pattern:- Jacquard Saree",
+          "Blouse Details -- Blouse Color: Red",
+          "Blouse Material: Cotton Silk Blend",
+          "Blouse Length: 0.75 meter",
+          "Unstitched Blouse Piece",
+          "Occation: Party Wear | Festival Wear | Casual Wear | Daily Wear | Office Wear | Farewell | Wedding Function",
+          "Style : The Texture And Weight Of The Saree Brings Image Prints One Step Closer To The Originals And Invites Attention",
+          "Package Contains : 1 Saree with 1 unstitched Blouse Piece"
+        ]
+      },
+      {
+        "id": "20",
+        "imgSrc": "./images/Titan Raga Women's watch.jpg",
+        "brand": "Titan",
+        "name": "Titan Raga Women's Grace Watch: Mother of Pearl Dial & Ornate Bracelet",
+        "price": "92",
+        "details": {
+          "CaseDiameter": "28 Millimetres",
+          "BandColour": "Rose Gold",
+          "BandMaterialType": "Metal",
+          "WarrantyType": "Manufacturer",
+          "WatchMovementType": "Quartz",
+          "ItemWeight": "190 Grams",
+          "CountryofOrigin": "India"
+        },
+        "about": [
+          "Unique flippable Swarovski crystal butterfly to play with on the strap.",
+          "Stunning solo Swarovski crystal studded strap.",
+          "Beautiful Rose Gold colored timepiece.",
+          "Warranty: 2 years",
+          "Ideal for birthday, anniversary and wedding gift"
+        ]
+      }
+  ]

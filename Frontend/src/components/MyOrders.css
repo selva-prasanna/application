@@ -1,0 +1,185 @@
+
+
+   .my-orders {
+    flex: 1;
+    margin: 150px 30px 50px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border: 2px solid #c5f4f7;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    overflow-x: auto; 
+  }
+  
+  .my-orders h2 {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .my-orders table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .my-orders th, .my-orders td {
+    padding: 12px;
+    text-align: center;
+    border: 1px solid #00eeff;
+    white-space: nowrap; /* Prevent text from wrapping */
+  }
+  
+  .my-orders th {
+    background-color: #c5f4f7;
+    border: 1px solid #00eeff;
+    color: black;
+  }
+  
+  .my-orders tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .my-orders td {
+    color: #555;
+  }
+  
+  .my-orders td:last-child {
+    text-align: right;
+  }
+ 
+  .my-orders .receipt-btn {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+  
+  .my-orders .receipt-btn button {
+    padding: 10px 20px;
+    color: black; 
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #c5f4f7;
+    border: 1px solid #96e7ec;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .my-orders .receipt-btn button:hover {
+    background-color: #96e7ec;
+  }
+  
+  .invoice {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+  }
+  
+  .invoice h3 {
+    margin-top: 0;
+  }
+  
+  .invoice table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+  }
+  
+  .invoice th, .invoice td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .invoice th {
+    background-color: #f4f4f4;
+  }
+  
+  .invoice p {
+    margin: 5px 0;
+  }
+  
+  
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .my-orders th, .my-orders td {
+      padding: 8px; /* Reduce padding for smaller screens */
+      font-size: 14px; /* Smaller font size */
+    }
+  
+    .my-orders h2 {
+      font-size: 18px; /* Smaller title size */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .my-orders th, .my-orders td {
+      padding: 6px; /* Further reduce padding for very small screens */
+      font-size: 12px; /* Smaller font size */
+    }
+  
+    .my-orders h2 {
+      font-size: 16px; /* Smaller title size */
+    }
+  
+    .my-orders table, .my-orders th, .my-orders td {
+      display: block; /* Make table rows block-level */
+      width: 100%; /* Make sure each row takes the full width */
+    }
+  
+    .my-orders th {
+      position: absolute;
+      top: -9999px;
+      left: -9999px; /* Hide table headers */
+    }
+  
+    .my-orders td {
+      border: none;
+      position: relative;
+      padding-left: 50%; /* Adjust padding for a label effect */
+      text-align: left; /* Reset text alignment */
+    }
+  
+    .my-orders td:before {
+      content: attr(data-label);
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 45%;
+      padding: 8px;
+      background-color: #f1f1f1;
+      font-weight: bold;
+    }
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .my-orders table, .my-orders th, .my-orders td,
+    .invoice table, .invoice th, .invoice td {
+      font-size: 12px;
+    }
+  
+    .my-orders .receipt-btn button {
+      padding: 8px 16px;
+      font-size: 12px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .my-orders table, .my-orders th, .my-orders td,
+    .invoice table, .invoice th, .invoice td {
+      font-size: 10px;
+      padding: 8px;
+    }
+  
+    .my-orders .receipt-btn button {
+      padding: 6px 12px;
+      font-size: 10px;
+    }
+  }
+  
+  

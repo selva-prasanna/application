@@ -1,0 +1,190 @@
+[
+  {
+      "id": "1",
+      "imgSrc": "./images/Rib-Shirt.jpg",
+      "brand": "Lymio",
+      "name": "Lymio Casual Shirt(Rib-Shirt)",
+      "price": 75,
+      "details": {
+        "materialComposition": "Polyester",
+        "fitType": "Regular Fit",
+        "sleeveType": "Long Sleeve",
+        "collarStyle": "Regular Collar",
+        "length": "Standard Length",
+        "neckStyle": "Dom",
+        "countryOfOrigin": "India"
+      },
+      "about": [
+        "Casual Shirt for Men | Shirt for Men | Men Stylish Shirt",
+        "Style: Casual",
+        "Neckline: Collar",
+        "Sleeve Length: Long Sleeve",
+        "Regular Fit"
+      ]
+  },
+  {
+      "id": "4",
+      "imgSrc": "./images/U.S. POLO ASSN. mens Panal Sneaker.jpg",
+      "brand": "U.S. POLO ASSN",
+      "name": "U.S. POLO ASSN. mens Panal Sneaker",
+      "price": 88,
+      "details": {
+        "materialType": "Faux Leather",
+        "closureType": "Lace-Up",
+        "heelType": "Flat",
+        "waterResistanceLevel": "Not Water Resistant",
+        "soleMaterial": "Rubber",
+        "style": "Sneakers",
+        "countryOfOrigin": "China"
+      },
+      "about": [
+        "Outer Material: Synthetic Leather",
+        "Closure Type: Lace-Up",
+        "Occasion: Casual",
+        "Toe Style: Round Toe",
+        "Warranty Type: Manufacturer",
+        "Warranty Description: 90 days"
+      ]
+  },
+  {
+      "id": "2",
+      "imgSrc": "./images/Samsung Galaxy Watch Ultra.jpg",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy Watch Ultra",
+      "price": 700,
+      "details": [
+        "Memory Storage Capacity: 32 GB",
+        "Special Feature: Blood Pressure Monitor, ECG, Activity Tracker, Always On Display, Contactless Payments",
+        "Connectivity Technology: Cellular, Wi-Fi, NFC",
+        "Battery Cell Composition: Lithium Ion",
+        "GPS: Built-in GPS"
+      ],
+      "about": [
+        "[ULTRA DURABLE] Cushion Design Dial with Aero-grade Titanium & Sapphire glass is built to survive in the most extreme conditions. With 10ATM & IP68 Rating, Watch ULTRA is ready even for the Oceans. MIL-STD-810H makes it even more reliable for tough outdoor environment. It has secured ability for operation at a wider range of environment like temperature or altitude.",
+        "[ULTRA CAPABLE] Galaxy Watch ULTRA has a 3nm Processor (3X faster) that supercharges your daily routine & optimizes battery life to give up to 100 hrs runtime. Double pinch comes in handy. A simple gesture can be used to take pictures, answer calls and / or turn off the alarm New hardware also includes Dual-Frequency GPS for improved & consistent location tracking.",
+        "[ULTRA INTELLIGENT] Galaxy AI Powered Health & Fitness monitoring: Energy Score, Booster Card & Personalized HR & FTP help elevate user's max capability based on daily condition. Paired with Galaxy AI Smartphone, it gives quick reply suggestions to match the context of last messages.",
+        "[ULTRA HEALTH] Powered by a new 2nd gen BioActive Sensor, Watch ULTRA improves the accuracy of various exercises and SpO2 by increasing the number of LEDs and changing the radial structure. With personalized HR algorithms, it can accurately measure ECG & monitor Blood Pressure.",
+        "[ULTRA CONVENIENCE] Introducing Quick Button that allows customizations to physical operations & integrates an EMERGENCY SIREN. Galaxy Watch ULTRA has two dedicated watch faces that automatically switch to NIGHT MODE according to illuminance. Other features include Tap & Pay, Gesture Controls & a seamless Galaxy Connected Experience with Samsung Smartphones.",
+        "[COMPATIBILITY] Galaxy Watch is compatible with Non Samsung Smartphone running on Android Version 11 or higher. Some features from the Watch may work differently depending on the device compatibility. BP & ECG monitoring features available only on Samsung Smartphones."
+      ]
+  },
+  {
+      "id": "3",
+      "imgSrc": "./images/Allen Solly Men's Regular Fit Polo.jpg",
+      "brand": "Allen Solly",
+      "name": "Allen Solly Men's Regular Fit Polo",
+      "price": 80,
+      "details": {
+        "MaterialComposition": "60% Cotton, 40% Polyester",
+        "Pattern": "Solid",
+        "FitType": "Regular Fit",
+        "SleeveType": "Half Sleeve",
+        "CollarStyle": "Band Collar",
+        "Length": "Standard Length",
+        "CountryofOrigin": "India"
+      },
+      "about": [
+        "Occasion: Casual",
+        "Fit: Regular Fit",
+        "Material: 60% Cotton and 40% Polyester",
+        "Neck: Polo Neck",
+        "Pattern: Solid",
+        "Closure Type: Button",
+        "Collar Style: Band Collar",
+        "Sleeve Type: Half Sleeve",
+        "Material Composition: 60% Cotton, 40% Polyester",
+        "Brand: Allen Solly"
+      ]
+  },
+  {
+      "id": "18",
+      "imgSrc": "./images/Fostelo Women's bag.jpg",
+      "brand": "Fostelo",
+      "name": "Fostelo Women's Vegan Leather Style Diva Handbags",
+      "price": 70,
+      "details": {
+        "ClosureType": "Zipper",
+        "OuterMaterial": "Polyurethane",
+        "Style": "Dale",
+        "OccasionType": "Women's Day",
+        "NumberofPockets": "4",
+        "Lining": "Silk",
+        "CountryofOrigin": "India"
+      },
+      "about": [
+        "✅Great Gift:- These womens purses come with upgrade hardware and durable zipper, suitable for a long time. Moreover,the purse sets goes well with any clothes in any occasions such as dating, traveling, working, shopping. Also the purse can be an excellent gift for Mothers, Wife, Girlfriend, Daughters and Best friends on birthday, Valentine's Day, Anniversary, Mother's Day and every important or special day for her.",
+        "✅Material & Hardware:- Vegan leather, quality shoulder strap and color plated metal zipper, polyester lining , all faux leather hand bags have been done anti-shock & wear-resistant tests, good purses, totes, satchels and handbags for women.",
+        "✅Stylish Handbag for Women: - Colour :- Light Grey. Dimensions (In Inches) :- 11 Tall X 15 Wide X 5 Deep. Innovative design and elegant tassels decoration, fashionable and practical office bags for women, perfect for shopping, dating, travel and business."
+      ]
+  },
+  {
+      "id": "11",
+      "imgSrc": "./images/MIA FASHION Men's Bomber Jacket.jpg",
+      "brand": "MIA FASHION",
+      "name": "MIA FASHION Men's Bomber Jacket, Autumn Blouson with Pockets",
+      "price": 88,
+      "details": {
+        "MaterialComposition": "Nylon",
+        "Style": "Blouson",
+        "Length": "Standard Length",
+        "Pattern": "Solid",
+        "CareInstructions": "Hand Wash Only",
+        "CountryofOrigin": "India"
+      },
+      "about": [
+        "Size: Please check the size data below in the product description before purchasing.",
+        "Material: Nylon; Lightweight, Windbreaker, Breathable",
+        "Breathable.::Full zipper stand collar bomber jacket, The zipper head is on the left.",
+        "FEATURE: Rib Knit Cuffs, Waistband, Collar for comfort, Dual pen pockets on sleeve.",
+        "Suitable for: Outdoor, Casual, Sportwear, Working, Daily life, Hiking, Clubwear, Sports, Spring, Fall or other outdoor activities."
+      ]
+  },
+  {
+      "id": "5",
+      "imgSrc": "./images/GoSriKi Kurta with Pant & Dupatta.jpg",
+      "brand": "GoSriKi",
+      "name": "GoSriKi Women's Cotton Blend Solid Regular Kurta with Pant & Dupatta",
+      "price": 80,
+      "details": {
+        "MaterialComposition": "Cotton Blend",
+        "Length": "Calf Length",
+        "SleeveType": "3/4 Sleeve",
+        "NeckStyle": "Round Neck",
+        "Style": "Anarkali",
+        "MaterialType": "Cotton Blend",
+        "CountryofOrigin": "India"
+      },
+      "about": [
+        "Kurta Set Fabric: Cotton Blend",
+        "Kurta Set Color: Red",
+        "Style: Anarkali",
+        "Length: Calf Length",
+        "Sleeves: 3/4 Sleeves",
+        "Size Chart- Kurta-S-36 in, M-38 in, L-40 in, XL-42 in, XXL-44 in, Pant: S-28 in, M-30 in, L-32 in, XL-34 in, XXL-36 in",
+        "This product contains 1 Kurta, 1 Pant and 1 Dupatta."
+      ]
+  },
+  {
+    "id": "9",
+    "imgSrc": "./images/D-Crush-16-23.jpg",
+    "brand": "Lymio",
+    "name": "Lymio Casual Shirt | Shirt for Men | Men Stylish Shirt (D-Crush-16-23)",
+    "price": 78,
+    "details": {
+      "MaterialComposition": "Polyester",
+      "Pattern": "Solid",
+      "FitType": "Regular Fit",
+      "SleeveType": "Half Sleeve",
+      "CollarStyle": "Classic",
+      "Length": "Standard Length",
+      "CountryofOrigin": "India"
+    },
+    "about": [
+      "Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt",
+      "Style:Casual",
+      "Neckline:Collar",
+      "Sleeve Length:Short Sleeve",
+      "Reguler Fit"
+    ]
+  }
+]

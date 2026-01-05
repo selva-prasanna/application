@@ -1,0 +1,302 @@
+/*? Reset some basic elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* ?General Styles */
+body {
+  background-color: #f4f4f4;
+}
+
+/*? Header Styles */
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#header img {
+  height: 50px;
+}
+
+#navbar {
+  list-style: none;
+  display: flex;
+}
+
+#navbar li {
+  margin: 0 5px;
+}
+
+#navbar a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+#navbar a.active {
+  color: #007bff;
+}
+
+#mobile {
+  display: none;
+}
+
+#close {
+  display: none;
+}
+
+#mobile a {
+  text-decoration: none;
+  color: #333;
+}
+
+/*? Hero Section */
+#hero {
+  text-align: center;
+  background: url('https://your-image-url.com') no-repeat center center/cover;
+  color: #fff;
+  padding: 5rem 2rem;
+}
+
+#hero h4 {
+  font-size: 1.5rem;
+}
+
+#hero h2 {
+  font-size: 3rem;
+  margin: 0.5rem 0;
+}
+
+#hero h1 {
+  font-size: 4rem;
+  margin: 0.5rem 0;
+}
+
+#hero p {
+  font-size: 1.2rem;
+}
+
+#hero button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+#hero {
+  text-align: center;
+  background: url('https://your-image-url.com') no-repeat center center/cover;
+  color: #fff;
+  padding: 5rem 2rem;
+}
+
+/* ?Feature Section */
+#feature {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 2rem;
+  background: #fff;
+}
+
+.fe-box {
+  text-align: center;
+  flex: 1;
+  margin: 1rem;
+}
+
+.fe-box img {
+  width: 50px;
+  height: 50px;
+}
+
+.fe-box h6 {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+
+/*? Products Section */
+#product1 {
+  padding: 2rem;
+}
+
+#product1 h2 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+#product1 p {
+  text-align: center;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.pro-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.pro {
+  background: #fff;
+  padding: 1rem;
+  margin: 1rem;
+  width: calc(33% - 2rem);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.pro img {
+  width: 100%;
+  height: auto;
+}
+
+.pro .des {
+  margin: 1rem 0;
+}
+
+.pro .des span {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.pro .star i {
+  color: #ffd700;
+}
+
+.pro .cart {
+  color: #007bff;
+  font-size: 1.5rem;
+}
+
+/* ?Banner Section */
+#banner {
+  text-align: center;
+  background: #007bff;
+  color: #fff;
+  padding: 2rem;
+}
+
+#banner h4 {
+  font-size: 1.5rem;
+}
+
+#banner h2 {
+  font-size: 3rem;
+}
+
+#banner span {
+  font-weight: bold;
+}
+
+#banner button {
+  background-color: #fff;
+  color: #007bff;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/*? Newsletter Section */
+#newsletter {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  background: #fff;
+}
+
+.newstext {
+  max-width: 60%;
+}
+
+.newstext h4 {
+  font-size: 1.5rem;
+}
+
+.newstext p {
+  font-size: 1rem;
+}
+
+.form {
+  max-width: 35%;
+}
+
+.form input {
+  padding: 0.5rem;
+  width: calc(100% - 2rem);
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.form button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 0.5rem;
+}
+
+/*? Footer Section */
+footer {
+  background: #333;
+  color: #fff;
+  padding: 2rem;
+}
+
+footer .col {
+  margin-bottom: 1rem;
+}
+
+footer .col h4 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+footer .col p {
+  margin-bottom: 0.5rem;
+}
+
+footer .icon i {
+  margin: 0 0.5rem;
+  font-size: 1.5rem;
+}
+
+footer .sec {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer .sec .col {
+  flex: 1;
+  margin: 0 1rem;
+}
+
+footer .sec .col a {
+  display: block;
+  color: #ddd;
+  text-decoration: none;
+  margin: 0.5rem 0;
+}
+
+footer .sec .col a:hover {
+  color: #fff;
+}
+
+footer .copyright {
+  text-align: center;
+  margin-top: 1rem;
+}
