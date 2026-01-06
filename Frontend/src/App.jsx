@@ -63,7 +63,7 @@ function App() {
   useEffect(() => {
     const fetchNewArrivalData = async () => {
       try {
-        const response = await axios.get('http://localhost:8000/newArrival');
+        const response = await axios.get('http://localhost:5000/newArrival');
         setNewArrivalData(response.data);
       } catch (error) {
         console.error('Error fetching new arrivals data:', error);
