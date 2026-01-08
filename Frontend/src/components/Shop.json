@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "imgSrc": "./images/Rib-Shirt.jpg",
+      "imgSrc": "/images/Rib-Shirt.jpg",
       "brand": "Lymio",
       "name": "Lymio Casual Shirt(Rib-Shirt)",
       "price": "75",
@@ -24,7 +24,7 @@
     },
     {
       "id": "2",
-      "imgSrc": "./images/Samsung Galaxy Watch Ultra.jpg",
+      "imgSrc": "/images/Samsung Galaxy Watch Ultra.jpg",
       "brand": "Samsung",
       "name": "Samsung Galaxy Watch Ultra",
       "price": "700",
@@ -46,7 +46,7 @@
     },
     {
       "id": "3",
-      "imgSrc": "./images/Allen Solly Men's Regular Fit Polo.jpg",
+      "imgSrc": "/images/Allen Solly Men's Regular Fit Polo.jpg",
       "brand": "Allen Solly",
       "name": "Allen Solly Men's Regular Fit Polo",
       "price": "80",
@@ -74,7 +74,7 @@
     },
     {
       "id": "4",
-      "imgSrc": "./images/U.S. POLO ASSN. mens Panal Sneaker.jpg",
+      "imgSrc": "/images/U.S. POLO ASSN. mens Panal Sneaker.jpg",
       "brand": "U.S. POLO ASSN",
       "name": "U.S. POLO ASSN. mens Panal Sneaker",
       "price": "88",
@@ -98,7 +98,7 @@
     },
     {
       "id": "5",
-      "imgSrc": "./images/GoSriKi Kurta with Pant & Dupatta.jpg",
+      "imgSrc": "/images/GoSriKi Kurta with Pant & Dupatta.jpg",
       "brand": "GoSriKi",
       "name": "GoSriKi Women's Cotton Blend Solid Regular Kurta with Pant & Dupatta",
       "price": "80",
@@ -148,7 +148,7 @@
     },
     {
       "id": "7",
-      "imgSrc": "./images/Drspinkkinnu_Baby Pink.jpg",
+      "imgSrc": "/images/Drspinkkinnu_Baby Pink.jpg",
       "brand": "Stylum",
       "name": "Stylum Women's Floral Printed Cotton Flared Maxi Dress",
       "price": "72",
@@ -177,7 +177,7 @@
     },
     {
       "id": "8",
-      "imgSrc": "./images/Dervin UV Protected Square Rimless Sunglasses.jpg",
+      "imgSrc": "/images/Dervin UV Protected Square Rimless Sunglasses.jpg",
       "brand": "Dervin",
       "name": "Dervin UV Protected Square Rimless Sunglasses for Men and Women",
       "price": "35",
@@ -192,7 +192,7 @@
     
     {
       "id": "9",
-        "imgSrc": "./images/D-Crush-16-23.jpg",
+        "imgSrc": "/images/D-Crush-16-23.jpg",
         "brand": "Lymio",
         "name": "Lymio Casual Shirt | Shirt for Men | Men Stylish Shirt (D-Crush-16-23)",
         "price": "78",
@@ -215,7 +215,7 @@
       },
       {
         "id": "10",
-        "imgSrc": "./images/Casio Edifice Black Analog  Watch.jpg",
+        "imgSrc": "/images/Casio Edifice Black Analog  Watch.jpg",
         "brand": "Casio",
         "name": "Casio Edifice Black Analog Dial Black Leather Band Men's Watch",
         "price": "95",
@@ -245,7 +245,7 @@
     
       {
         "id": "11",
-        "imgSrc": "./images/MIA FASHION Men's Bomber Jacket.jpg",
+        "imgSrc": "/images/MIA FASHION Men's Bomber Jacket.jpg",
         "brand": "MIA FASHION",
         "name": "MIA FASHION Men's Bomber Jacket, Autumn Blouson with Pockets",
         "price": "88",
@@ -267,7 +267,7 @@
       },
       {
         "id": "12",
-        "imgSrc": "./images/Puma Sky Running Shoe.jpg",
+        "imgSrc": "/images/Puma Sky Running Shoe.jpg",
         "brand": "Puma",
         "name": "Puma Unisex-Adult Aviator Profoam Sky Running Shoe",
         "price": "120",
@@ -291,7 +291,7 @@
 
       {
         "id": "13",
-        "imgSrc": "./images/CBlue Men's Outdoor Sports Shorts.jpg",
+        "imgSrc": "/images/CBlue Men's Outdoor Sports Shorts.jpg",
         "brand": "CBlue",
         "name": "CBlue Men's Outdoor Quick Dry Lightweight Sports Shorts 2 Zipper Pockets",
         "price": "45",
@@ -323,7 +323,7 @@
       },
       {
         "id": "14",
-        "imgSrc": "./images/Lymio Men Cargo Pants.jpg",
+        "imgSrc": "/images/Lymio Men Cargo Pants.jpg",
         "brand": "Lymio",
         "name": "Lymio Men Cargo | Men Cargo Pants | Men Cargo Pants Cotton | Cargos for Men (Cargo-38-41)",
         "price": "69",
@@ -346,7 +346,7 @@
       },
       {
         "id": "15",
-        "imgSrc": "./images/TIMEX Fria Women watch.jpg",
+        "imgSrc": "/images/TIMEX Fria Women watch.jpg",
         "brand": "TIMEX",
         "name": "TIMEX Fria Women Round, Cushion, Rectangular and Rhombus Dial Case 2 Hands Function Rose Gold and Silver Watch",
         "price": "82",
@@ -367,7 +367,7 @@
       },
       {
         "id": "16",
-        "imgSrc": "./images/Women's Crepe A-Line Maxi Dress.jpg",
+        "imgSrc": "/images/Women's Crepe A-Line Maxi Dress.jpg",
         "brand": "OOMPH",
         "name": "OOMPH! Women's Crepe A-Line Maxi Dress (Smocked)",
         "price": "85",
@@ -388,7 +388,7 @@
       },
       {
         "id": "17",
-        "imgSrc": "./images/C4D Keyhole Elegant Skater Dress.jpg",
+        "imgSrc": "/images/C4D Keyhole Elegant Skater Dress.jpg",
         "brand": "C4D",
         "name": "C4D Women's Pluse Size Front Keyhole Elegant Skater Dress",
         "price": "78",
@@ -411,7 +411,7 @@
       },
       {
         "id": "18",
-        "imgSrc": "./images/Fostelo Women's bag.jpg",
+        "imgSrc": "/images/Fostelo Women's bag.jpg",
         "brand": "Fostelo",
         "name": "Fostelo Women's Vegan Leather Style Diva Handbags",
         "price": "70",
@@ -432,7 +432,7 @@
       },
       {
         "id": "19",
-        "imgSrc": "./images/Yashika Women's saree.jpg",
+        "imgSrc": "/images/Yashika Women's saree.jpg",
         "brand": "Yashika",
         "name": "Yashika Women's Fancy Banarasi Kanjivaram Art Silk Saree",
         "price": "88",
@@ -461,7 +461,7 @@
       },
       {
         "id": "20",
-        "imgSrc": "./images/Titan Raga Women's watch.jpg",
+        "imgSrc": "/images/Titan Raga Women's watch.jpg",
         "brand": "Titan",
         "name": "Titan Raga Women's Grace Watch: Mother of Pearl Dial & Ornate Bracelet",
         "price": "92",

@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer>
     <div className="col">
-      <a href="#"><img className="logo" src="./images/logo.png" alt="Logo" width={'180px'} /></a>
+      <a href="#"><img className="logo" src="/images/logo.png" alt="Logo" width={'180px'} /></a>
       <h4>Contact</h4>
       <p><strong>Address:</strong> 123, New Street, Coimbatore, TamilNadu</p>
       <p><strong>Phone:</strong> +91 7388002856, +91 9912450945</p>

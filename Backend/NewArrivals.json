@@ -1,7 +1,7 @@
 [
   {
     "id": "17",
-    "imgSrc": "./images/C4D Keyhole Elegant Skater Dress.jpg",
+    "imgSrc": "/images/C4D Keyhole Elegant Skater Dress.jpg",
     "brand": "C4D",
     "name": "C4D Women's Pluse Size Front Keyhole Elegant Skater Dress",
     "price": 78,
@@ -24,7 +24,7 @@
   },
   {
     "id": "12",
-    "imgSrc": "./images/Puma Sky Running Shoe.jpg",
+    "imgSrc": "/images/Puma Sky Running Shoe.jpg",
     "brand": "Puma",
     "name": "Puma Unisex-Adult Aviator Profoam Sky Running Shoe",
     "price": 120,
@@ -47,7 +47,7 @@
   },
   {
     "id": "19",
-    "imgSrc": "./images/Yashika Women's saree.jpg",
+    "imgSrc": "/images/Yashika Women's saree.jpg",
     "brand": "Yashika",
     "name": "Yashika Women's Fancy Banarasi Kanjivaram Art Silk Saree",
     "price": 88,
@@ -76,7 +76,7 @@
   },
   {
     "id": "20",
-    "imgSrc": "./images/Titan Raga Women's watch.jpg",
+    "imgSrc": "/images/Titan Raga Women's watch.jpg",
     "brand": "Titan",
     "name": "Titan Raga Women's Grace Watch: Mother of Pearl Dial & Ornate Bracelet",
     "price": 92,
@@ -99,7 +99,7 @@
   },
   {
     "id": "16",
-    "imgSrc": "./images/Women's Crepe A-Line Maxi Dress.jpg",
+    "imgSrc": "/images/Women's Crepe A-Line Maxi Dress.jpg",
     "brand": "OOMPH",
     "name": "OOMPH! Women's Crepe A-Line Maxi Dress (Smocked)",
     "price": 85,
@@ -120,7 +120,7 @@
   },
   {
     "id": "6",
-    "imgSrc": "./images/Hopscotch USB Rechargeable Sneakers.jpg",
+    "imgSrc": "/images/Hopscotch USB Rechargeable Sneakers.jpg",
     "brand": "Hopscotch",
     "name": "Hopscotch PU Wings High Top USB Rechargeable Sneakers in White Color",
     "price": 85,
@@ -141,7 +141,7 @@
   },
   {
     "id": "7",
-    "imgSrc": "./images/Drspinkkinnu_Baby Pink.jpg",
+    "imgSrc": "/images/Drspinkkinnu_Baby Pink.jpg",
     "brand": "Stylum",
     "name": "Stylum Women's Floral Printed Cotton Flared Maxi Dress",
     "price": 72,
@@ -170,7 +170,7 @@
   },
   {
     "id": "8",
-    "imgSrc": "./images/Dervin UV Protected Square Rimless Sunglasses.jpg",
+    "imgSrc": "/images/Dervin UV Protected Square Rimless Sunglasses.jpg",
     "brand": "Dervin",
     "name": "Dervin UV Protected Square Rimless Sunglasses for Men and Women",
     "price": 35,

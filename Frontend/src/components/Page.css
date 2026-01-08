@@ -222,7 +222,7 @@ body{
 /* *---------------hero----------------- */
 
 #hero{
-  background-image: url("./images/hero-banner.png");
+  background-image: url("/images/hero-banner.png");
   height: 100vh;
   width: 100%;
   background-size: cover;
@@ -703,7 +703,7 @@ body{
   justify-content: center;
   align-items: flex-start;
   text-align: center;
-  background-image: url(./images/sm-banner1.png);
+  background-image: url(/images/sm-banner1.png);
   min-width: 580px;
   height: 40vh;
   background-position: center;
@@ -712,7 +712,7 @@ body{
 }
 
 #sm-banner .banner-box2 {
-  background-image: url(./images/sm-banner2.png);
+  background-image: url(/images/sm-banner2.png);
 }
 
 #sm-banner {
@@ -792,7 +792,7 @@ button.white {
   justify-content: center;
   align-items: flex-start;
   text-align: center;
-  background-image: url(./images/small-banner1.png);
+  background-image: url(/images/small-banner1.png);
   min-width: 30%;
   height: 30vh;
   background-position: center;
@@ -814,11 +814,11 @@ button.white {
 }
 
 #banner3 .banner-img2 {
-  background-image: url(./images/small-banner2.png);
+  background-image: url(/images/small-banner2.png);
 }
 
 #banner3 .banner-img3 {
-  background-image: url(./images/small-banner3.png);
+  background-image: url(/images/small-banner3.png);
 }
 
 /* *----------newsletter------------ */

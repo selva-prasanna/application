@@ -1,7 +1,7 @@
 [
   {
       "id": "1",
-      "imgSrc": "./images/Rib-Shirt.jpg",
+      "imgSrc": "/images/Rib-Shirt.jpg",
       "brand": "Lymio",
       "name": "Lymio Casual Shirt(Rib-Shirt)",
       "price": 75,
@@ -24,7 +24,7 @@
   },
   {
       "id": "4",
-      "imgSrc": "./images/U.S. POLO ASSN. mens Panal Sneaker.jpg",
+      "imgSrc": "/images/U.S. POLO ASSN. mens Panal Sneaker.jpg",
       "brand": "U.S. POLO ASSN",
       "name": "U.S. POLO ASSN. mens Panal Sneaker",
       "price": 88,
@@ -48,7 +48,7 @@
   },
   {
       "id": "2",
-      "imgSrc": "./images/Samsung Galaxy Watch Ultra.jpg",
+      "imgSrc": "/images/Samsung Galaxy Watch Ultra.jpg",
       "brand": "Samsung",
       "name": "Samsung Galaxy Watch Ultra",
       "price": 700,
@@ -70,7 +70,7 @@
   },
   {
       "id": "3",
-      "imgSrc": "./images/Allen Solly Men's Regular Fit Polo.jpg",
+      "imgSrc": "/images/Allen Solly Men's Regular Fit Polo.jpg",
       "brand": "Allen Solly",
       "name": "Allen Solly Men's Regular Fit Polo",
       "price": 80,
@@ -98,7 +98,7 @@
   },
   {
       "id": "18",
-      "imgSrc": "./images/Fostelo Women's bag.jpg",
+      "imgSrc": "/images/Fostelo Women's bag.jpg",
       "brand": "Fostelo",
       "name": "Fostelo Women's Vegan Leather Style Diva Handbags",
       "price": 70,
@@ -119,7 +119,7 @@
   },
   {
       "id": "11",
-      "imgSrc": "./images/MIA FASHION Men's Bomber Jacket.jpg",
+      "imgSrc": "/images/MIA FASHION Men's Bomber Jacket.jpg",
       "brand": "MIA FASHION",
       "name": "MIA FASHION Men's Bomber Jacket, Autumn Blouson with Pockets",
       "price": 88,
@@ -141,7 +141,7 @@
   },
   {
       "id": "5",
-      "imgSrc": "./images/GoSriKi Kurta with Pant & Dupatta.jpg",
+      "imgSrc": "/images/GoSriKi Kurta with Pant & Dupatta.jpg",
       "brand": "GoSriKi",
       "name": "GoSriKi Women's Cotton Blend Solid Regular Kurta with Pant & Dupatta",
       "price": 80,
@@ -166,7 +166,7 @@
   },
   {
     "id": "9",
-    "imgSrc": "./images/D-Crush-16-23.jpg",
+    "imgSrc": "/images/D-Crush-16-23.jpg",
     "brand": "Lymio",
     "name": "Lymio Casual Shirt | Shirt for Men | Men Stylish Shirt (D-Crush-16-23)",
     "price": 78,
