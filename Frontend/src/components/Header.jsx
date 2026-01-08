@@ -49,7 +49,7 @@ const Header = ({ cartItemCount, setAuth, auth, setCart, cart }) => {
     return (
         <section id="header">
             <Link to="/" onClick={() => handleLinkClick('/')}>
-                <img src="./" alt="Logo" />
+                <img src="/images/IMG_6763.PNG" alt="Logo" />
             </Link>
             <div>
                 <ul id="navbar" className={isActive ? 'active' : ''}>

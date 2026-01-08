@@ -33,7 +33,7 @@ const Contact = () => {
             </li>
             <li>
               <i><PhoneIcon/></i>
-              <p>+91 9988776600</p>
+              <p>+91 9791734770</p>
             </li>
           </div>
           {/* <div className="map">

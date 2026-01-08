@@ -8,10 +8,10 @@ const Footer = () => {
   return (
     <footer>
     <div className="col">
-      <a href="#"><img className="logo" src="/images/logo.png" alt="Logo" width={'180px'} /></a>
+      <a href="#"><img className="logo" src="/images/IMG_6763.PNG" alt="Logo" width={'180px'} /></a>
       <h4>Contact</h4>
       <p><strong>Address:</strong> 123, New Street, Coimbatore, TamilNadu</p>
-      <p><strong>Phone:</strong> +91 7388002856, +91 9912450945</p>
+      <p><strong>Phone:</strong> +91 9791734770</p>
       <p><strong>Hours:</strong> 9.00 - 7.00, Mon - Sat</p>
 
         <div className="follow">
@@ -56,7 +56,7 @@ const Footer = () => {
       </div>
 
       <div className="copyright">
-        <p> Made with <span>❤</span> <span className='deal'>Deal</span> <span>Dock</span>  | <span>©</span> All Rights Reserved.</p>
+        <p> Made with <span>❤</span> <span className='deal'>NovaShop</span> | <span>©</span> All Rights Reserved.</p>
       </div>
     </footer>
   );
