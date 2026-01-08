@@ -34,7 +34,7 @@ function App() {
   useEffect(() => {
     const fetchHomeData = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/home');
+        const response = await axios.get('http://localhost:3000/home');
         setHomeData(response.data);
       } catch (error) {
         console.error('Error fetching home data:', error);
@@ -48,7 +48,7 @@ function App() {
   useEffect(() => {
     const fetchShopData = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/shop');
+        const response = await axios.get('http://localhost:3000/shop');
         setShopData(response.data);
       } catch (error) {
         setShopError('Error fetching shop data');
@@ -63,7 +63,7 @@ function App() {
   useEffect(() => {
     const fetchNewArrivalData = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/newArrival');
+        const response = await axios.get('http://localhost:3000/newArrival');
         setNewArrivalData(response.data);
       } catch (error) {
         console.error('Error fetching new arrivals data:', error);
@@ -77,7 +77,7 @@ function App() {
   useEffect(() => {
     const fetchProductData = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/products');
+        const response = await axios.get('http://localhost:3000/products');
         setProductData(response.data);
       } catch (error) {
         console.error('Error fetching product data:', error);
