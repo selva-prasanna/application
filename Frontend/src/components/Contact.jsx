@@ -25,7 +25,7 @@ const Contact = () => {
             </li>
             <li>
               <i><EmailIcon/></i>
-              <p>dealdock@gmail.com</p>
+              <p>novashop@gmail.com</p>
             </li>
             <li>
               <i><AccessTimeFilledRoundedIcon/></i>
